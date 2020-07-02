@@ -1,0 +1,10 @@
+Fira Sans Bold
+Fira Sans ExtraBold
+Fira Sans SemiBold
+Fira Sans Regular
+Fira Sans Light
+Fira Sans Medium
+
+Martel ExtraBold
+Mrtel Bold
+Martel Regular
