@@ -180,6 +180,7 @@ img {
 }
 .hr-type img:last-child {
 	width: 30.9%;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.12);
 }
 .hr2-type img{
 	width: 21.36%;
