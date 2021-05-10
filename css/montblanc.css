@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .mont-header__img {
 	width: 31.54%;
+	align-self:auto;
 }
 .mont-header__text-block {
 	margin-top: 3rem;
