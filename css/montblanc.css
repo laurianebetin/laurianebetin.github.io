@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6{
 	font-weight: 500;
 	font-size: 1.8rem;
 	line-height: 2.2rem;
-	color: #AA9090;
+	color: #D39292;
 	margin-bottom: 2rem;
 }
 .project-preview__block a span:last-child {
@@ -254,6 +254,18 @@ h1, h2, h3, h4, h5, h6{
 }
 .project-preview__block a span:first-child{
 	font-size: 1.4rem;
+}
+.project-preview__block:last-child a span:first-child {
+	text-decoration: underline;
+	margin-left: 0.6rem;
+	font-size: 1.8rem;
+}
+.project-preview__block:last-child a span:last-child{
+	text-decoration: none;
+	font-size: 1.4rem;
+}
+.project-preview__block:last-child a{
+	text-align: right;
 }
 .responsive {
 	display: none;

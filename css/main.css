@@ -165,6 +165,9 @@ section h3, h4, h5 {
 	padding-top: calc(100% - 8px);
 	width: 100%;
 }
+#poletto_restaurant .inner-img__block{
+	border: 4px solid #E46740;
+}
 #montblank .inner-img__block{
 	border: 4px solid #AA9090;
 }
@@ -206,6 +209,9 @@ section h3, h4, h5 {
 	height: 0.6rem;
 	margin-bottom: 3.4rem;
 }
+#poletto_restaurant .border__block{
+	background-color: #E46740;
+}
 #montblank .border__block{
 	background-color: #AA9090;
 }
@@ -237,6 +243,9 @@ section h3, h4, h5 {
 	font-size: 1.8rem;
 	line-height: 2.2rem;
 	color: #556E9B;
+}
+#poletto_restaurant .project__link{
+	color: #E46740;
 }
 #montblank .project__link{
 	color: #AA9090;
